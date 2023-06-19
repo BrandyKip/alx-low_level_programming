@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdlib.h>
+#include<stdlib>
+
+/**
+ ** main - Entry point
+ ** Return: Always 1 (Success)
+ **/
 
 int main(void)
 {
