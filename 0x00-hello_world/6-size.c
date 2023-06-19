@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main
+int main()
 {
 printf("Size of a char : %2d bytes \n", sizeof(char));
 printf("Size of an int : %2d bytes \n", sizeof(int));
